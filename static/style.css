@@ -1,0 +1,15 @@
+@import 'https://fonts.googleapis.com/css?family=Kanit|Prompt';
+
+body{
+    font-family: 'Kanit', sans-serif;
+    color: black;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 50px;
+}
+
+h1,h2,h3,td,tr,p{
+    font-family: 'Prompt', sans-serif;
+    color: black;
+}
